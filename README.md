@@ -11,7 +11,7 @@
 
 - Работала над проектами компаний [NYiAX](https://www.nyiax.com/), [Nasdaq](https://www.nasdaq.com/), [Bercut](https://bercut.com/)
 - А сейчас работаю в [IT_One](https://www.it-one.ru/) на проекте Газпромбанка
-- Обучаюсь автоматизации в [QA.GURU](https://qa.guru/)
+- Обучаюсь автоматизации на Java в [QA.GURU](https://qa.guru/)
 
 
 <p align="center">
