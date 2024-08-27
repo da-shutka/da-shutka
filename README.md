@@ -34,5 +34,4 @@
 
 ### Дипломные проекты в [QA.GURU](https://qa.guru/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=da-shutka&repo=rigla&theme=blueberry)](https://github.com/da-shutka/rigla)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=da-shutka&repo=rigla_mobile&theme=blueberry)](https://github.com/da-shutka/rigla_mobile)
+
