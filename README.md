@@ -16,7 +16,6 @@
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img width="4%" title="IntelliJ IDEA" src="media/icons/Intelij_IDEA.svg"/></a>
-<a href="https://developer.android.com/studio"><img width="4%" title="Android Studio" src="media/icons/Android_Studio.svg"/></a>
 <a href="https://www.java.com/"><img width="4%" title="Java" src="media/icons/Java.svg"/></a>
 <a href="https://selenide.org/"><img width="4%" title="Selenide" src="media/icons/Selenide.svg"/></a>
 <a href="https://www.browserstack.com/"><img width="4%" title="BrowserStack" src="media/icons/browserstack.svg"/></a>
