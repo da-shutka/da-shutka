@@ -14,7 +14,6 @@
 - Обучаюсь автоматизации в [QA.GURU](https://qa.guru/)
 
 
-
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img width="4%" title="IntelliJ IDEA" src="media/icons/Intelij_IDEA.svg"/></a>
 <a href="https://developer.android.com/studio"><img width="4%" title="Android Studio" src="media/icons/Android_Studio.svg"/></a>
@@ -31,25 +30,9 @@
 <a href="https://telegram.org/"><img width="4%" title="Telegram" src="media/icons/Telegram.svg"/></a>
 </p>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-shutka&show_icons=true&bg_color=00000000)
 
-### Дипломные проекты
+### Дипломные проекты в [QA.GURU](https://qa.guru/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=da-shutka&repo=rigla&theme=blueberry)](https://github.com/da-shutka/rigla)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=da-shutka&repo=rigla_mobile&theme=blueberry)](https://github.com/da-shutka/rigla_mobile)
-
-<!--
-**da-shutka/da-shutka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
